@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\CLion3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\C\DAA_ConvexHull
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/C/DAA_ConvexHull/cmake-build-debug
